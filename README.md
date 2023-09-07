@@ -7,10 +7,10 @@
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=Schlotged&theme=dracula" />
+  <img height=160 align="left" src="https://github-readme-stats.vercel.app/api?username=Schlotged&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schlotged&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schlotged&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>
