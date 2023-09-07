@@ -9,7 +9,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=160 align="left" src="https://github-readme-stats.vercel.app/api?username=Schlotged&theme=dracula" />
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schlotged&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schlotged&layout=compact&langs_count=8&card_width=300&theme=dracula" />
 </a>
 
 ##
@@ -23,7 +23,7 @@
   <img align="center" alt="pandas" height="30" width="40"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="sqlite" height="30" width="40"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
 </div>
 
