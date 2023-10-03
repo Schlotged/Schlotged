@@ -2,7 +2,6 @@
 
 - 🔭 Eu estou trabalhando com back-end
 - 🌱 Estou estudando Python and C#
-- 😄 Pronouns: ele/dele
 
 ##
 
