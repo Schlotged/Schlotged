@@ -1,17 +1,27 @@
 ### Olá, eu sou Gedson Schlotefeldt
 
-- 🔭 Eu estou trabalhando com back-end
-- 🌱 Estou estudando Python and C#
+- 🔭 Sou analista de processos e dev-backend
+- 🌱 já tenho experiencia em Python e estou estudando HTML, CSS E JAVASCRIPT
 
 ##
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="left" src="https://github-readme-stats.vercel.app/api?username=Schlotged&theme=dracula" />
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Schlotged&layout=compact&langs_count=8&card_width=300&theme=dracula" />
 </a>
 
 ##
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="selenium" height="30" width="40"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <img align="center" alt="pandas" height="30" width="40"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="sqlite" height="30" width="40"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+
+</div>
 
 ##
 
