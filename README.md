@@ -1,6 +1,6 @@
 ### Olá, eu sou Gedson Schlotefeldt
 
-- 🔭 Sou analista de processos e dev-backend
+- 🔭 Dev-backend
 - 🌱 já tenho experiencia em Python e estou estudando HTML, CSS E JAVASCRIPT
 
 ##
